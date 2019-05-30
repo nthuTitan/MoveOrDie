@@ -10,3 +10,4 @@ game.state.add('end', endState);
 game.state.add('set', setState);
 
 game.state.start('boot');
+///test3
